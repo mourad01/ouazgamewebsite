@@ -341,6 +341,13 @@ ul.scroll li a:hover:not(.active){
     transition: all 1s ease-in-out;
   }
   
+  .content:hover{
+   
+    border: 1px;
+    border-radius: 10px;
+    background: url("../images/pixel_destroy_game.gif") no-repeat;
+   
+  }
   .movie-list-item {
     margin-right: 10px;
     position: relative;
@@ -349,17 +356,16 @@ ul.scroll li a:hover:not(.active){
   .movie-list-item:hover .movie-list-item-img {
     transform: scale(1.2);
     margin: 0 20px;
-    opacity: 0.5;
+    opacity: 0;
+   
   }
   
-  .movie-list-item:hover .movie-list-item-title,
-  .movie-list-item:hover .movie-list-item-desc,
-  .movie-list-item:hover .movie-list-item-button {
+  .movie-list-item:hover .movie-list-item-title {
     opacity: 0.5;
   }
   
   .movie-list-item-img {
-    transition: all 0.5s ease-in-out;
+    transition: all 1s ease-in-out;
     width: 250px;
     height: 160px;
     object-fit: cover;
@@ -382,7 +388,7 @@ ul.scroll li a:hover:not(.active){
     top: 70%;
     left: 10px;
     opacity: 10;
-    transition: 0.5s all ease-in-out;
+    transition: 1s all ease-in-out;
   }
   .arrow {
     font-size: 120px;
@@ -400,86 +406,9 @@ ul.scroll li a:hover:not(.active){
   }
 
 /* Responsive */
-@media (max-width:1125px ) {
-    .home-titel{
-        position: absolute;
-        top: 85px;
-        left: 10px;
-        font-size: 15px;
-        
-    }
-    .secon-titel{
-        position: absolute;
-        top: 282px;
-        left: 10px;
-        font-size: 15px;
-    }
-   
-    .logo{
-        width: 210px;
-        position: absolute;
-        top :0px;
-        height: 85px;
-        background: #550381;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        color: #fff;
-        clip-path: polygon(0 0, 100% 0, 64% 100%, 0% 100%);
-        padding: 5px;
-        line-height: 1.3rem;
-    }
-    .logo p{
-        width: 130px;
-        margin-left: 10px;
-        font-size: 20px;
-    }
-    .logo .fas{
-        font-size: 40px;
-    }
-    ul.navbar{
-        display: flex;
-        list-style: none;
-    }
-    .movie-list-wrapper {
-        width: 100%; 
-        
-        position:absolute;
-        overflow: hidden;
-        top: 80px;
-        left: 0px;
-      }
-      .list-wrapper {
-        width: 100%; ;
-        position:absolute;
-        overflow: hidden;
-        top: 280px;
-        left: 0px;
-      }
-      .list-wrapper1 {
-        width: 100%;
-        position:absolute; 
-        left: 0;
-        
-      
-      }
-      
-      .view_titel a {
-        position: absolute;
-        text-decoration: none;
-        color: #fff;
-        font-weight: lighter;
-        font-size: 12px;
-        display: flex;
-        left: 260px;
-        height: 2px;
-        top: 89px;
-        padding: 5px;
-        border: 1px rebeccapurple;
-        
-    }
+
     
-}
+
 @media screen and (max-width: 1200px){
     .container .menu_butt{
         display: block;

@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #1a0327;
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    width: 100%;
+    display: block;
+}
+.main-wrapper{
+    background-color: #550381 ;
+    min-height: 100vh;
+    overflow-x: 0;
+}
+
+
+  
+.container , .container1{
+   
+    margin: 0 auto;
+    
+    
+}
+.container1{
+    padding: 0 40px;
+}
+.main-title{
+    text-align: left;
+    color: #e1ecf4;
+}
+.main_titel1 {
+    display: flex;
+    padding: 16px 16px;
+    position: absolute;
+    top: 76px;
+    left: 10px;
+    font-size: 14px;
+}
+.main_titel1 h1{
+    color: #e1ecf4;
+}
+.main-title h1{
+    padding: 16px 0;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.display-style-btns{
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: #550381 ;
+    padding: 16px 0;
+    border-radius: 5px;
+}
+.display-style-btns button{
+    border: none;
+    font-size: 22px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 8px;
+    background-color: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease-out;
+}
+.display-style-btns button:hover{
+    color: #f79410;
+}
+.active-btn{
+    color: #f79410;
+}
+
+
+.item-list{
+    
+    display: flex;
+   flex-direction: row;
+  flex-wrap: wrap;
+  row-gap: 5px;
+  column-gap: 5px;
+
+    
+    
+}
+.item:hover .item-img {
+    transform: scale(1.2);
+    margin: 0 20px;
+    opacity: 0; 
+  }
+  .item:hover .movie-list-item-title {
+    opacity: 0.5;
+  }
+.item{
+    position: relative;
+    align-items: center;
+    border: 1px rebeccapurple;
+    transform: translateX(0);
+    transition: all 1s ease-in-out;
+}
+.item:hover{
+    box-shadow: 0 0 10px 1px rgba(0, 4, 4, 0.15);
+}
+.content:hover{
+   
+    border: 1px;
+    border-radius: 10px;
+    background: url("images/pixel_destroy_game.gif") no-repeat;
+   
+  }
+.item-img{
+    
+    transition: all 1s ease-in-out;
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 20px;
+    
+}
+.movie-list-item-title {
+    color: #e1ecf4;
+    
+    background-color: rgba(51, 51, 51, 0.068);
+    border-radius:10px ;
+    padding: 0 10px;
+    font-size: 12px;
+    font-weight: bold;
+    position: absolute;
+    top: 80%;
+    left: 10px;
+    opacity: 10;
+    transition: 1s all ease-in-out;}
+
+
+
+
+
+
+
+
+@media screen and (min-width: 678px){
+    .item-list{
+        grid-template-columns: repeat(3, 1fr);
+       
+    }
+}
+
+@media screen and (min-width: 768px){
+    .item-list{
+        grid-template-columns: repeat(5, 1fr);
+    }
+}
+
+@media screen and (max-width: 576px){
+    .details-active .item{
+        grid-template-columns: 100%;
+    }
+}
