@@ -14,7 +14,7 @@ img{
     display: block;
 }
 .main-wrapper{
-    background-color: #550381 ;
+    background-color: #1a0327; ;
     min-height: 100vh;
     overflow-x: 0;
 }
@@ -24,11 +24,12 @@ img{
 .container , .container1{
    
     margin: 0 auto;
-    
+    max-width: 1450px;
     
 }
 .container1{
     padding: 0 40px;
+    
 }
 .main-title{
     text-align: left;
@@ -56,7 +57,7 @@ img{
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    background-color: #550381 ;
+    background-color:#1a0327; ;
     padding: 16px 0;
     border-radius: 5px;
 }
@@ -80,11 +81,14 @@ img{
 
 .item-list{
     
-    display: flex;
+  display: flex;
    flex-direction: row;
   flex-wrap: wrap;
-  row-gap: 5px;
-  column-gap: 5px;
+  align-items: center;
+  justify-content: center;
+  
+  row-gap: 10px;
+  column-gap: 20px;
 
     
     
@@ -149,16 +153,19 @@ img{
         grid-template-columns: repeat(3, 1fr);
        
     }
+   
 }
 
 @media screen and (min-width: 768px){
     .item-list{
         grid-template-columns: repeat(5, 1fr);
     }
+ 
 }
 
 @media screen and (max-width: 576px){
     .details-active .item{
         grid-template-columns: 100%;
     }
+    
 }

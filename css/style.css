@@ -14,12 +14,10 @@ body{
 }
 .container{
     position: absolute;
-    
     width: 100%;
     display: flex;
     justify-content: space-between;
     box-sizing: border-box;
-    height: 100vh;
     background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/b.jpg);
     background-size: cover;
     background-position: center;
