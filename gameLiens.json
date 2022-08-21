@@ -1,0 +1,229 @@
+{
+    "games":[
+        {
+            "name":"Adventure Miner",
+            "videourl":"/images/Games/adventureMiner.mp4",
+            "imgurl":"/images/Games/adventureMiner.jpg",
+            "url":"https://www.crazygames.fr/embed/adventure-miner"},
+        {
+            "name":"Weave",
+            "videourl":"/images/Games/Weave.mp4",
+            "imgurl":"/images/Games/Weave.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/weave/index.html"},
+        {
+            "name":"Drive Space",
+            "videourl":"/images/Games/DriveSpace.mp4",
+            "imgurl":"/images/Games/DriveSpace.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/drive-space/index.html"},
+        {
+            "name":"Cross That Road",
+            "videourl":"/images/Games/CrossThatRoad.mp4",
+            "imgurl":"/images/Games/CrossRoad.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/cross-that-road/index.html"},
+        {
+            "name":"Tower Boxer",
+            "videourl":"/images/Games/TowerBox.mp4",
+            "imgurl":"/images/Games/TowerBox.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/tower-boxer/index.html"},
+        {
+            "name":"Factory Rush",
+            "videourl":"/images/Games/FactoryRush.mp4",
+            "imgurl":"/images/Games/FactoryRush.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/factory-rush/index.html"},
+        {
+            "name":"WormBird",
+            "videourl":"/images/Games/WormBird.mp4",
+            "imgurl":"/images/Games/WormBird.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/worm-bird/index.html"},
+        {
+            "name":"Parking Tight",
+            "videourl":"/images/Games/ParkinTighte.mp4",
+            "imgurl":"/images/Games/ParkingTightt.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/parking-tight/index.html"},
+        {
+            "name":"Burnin Rubber Crash Burn",
+            "videourl":"/images/Games/BurninRubberCrashBurn.mp4",
+            "imgurl":"/images/Games/BurninRubberCrashBurn.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/burnin-rubber-crash-n-burn/index.html"},
+        {
+            "name":"Sand Ball",
+            "videourl":"/images/Games/SandBall.mp4",
+            "imgurl":"/images/Games/SandBall.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/sand-ball/index.html"},
+        {
+            "name":"Space Knife",
+            "videourl":"/images/Games/SpaceKnife.mp4",
+            "imgurl":"/images/Games/SpaceKnife.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/space-knife/index.html"},
+        {
+            "name":"Mr Slice",
+            "videourl":"/images/Games/Mrslice.mp4",
+            "imgurl":"/images/Games/Mrslice.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/mr-slice/index.html"},
+        {
+            "name":"Destroy Pixel",
+            "videourl":"/images/Games/Destroypixel.mp4",
+            "imgurl":"/images/Games/Destroypixel.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/destroy-pixel/index.html"},
+        {
+            "name":"The Endless Tap",
+            "videourl":"/images/Games/Theendlesstape.mp4",
+            "imgurl":"/images/Games/Theendlesstap.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/the-endless-tap/index.html"},
+        {
+            "name":"Traffic Controller",
+            "videourl":"/images/Games/trafficcontrole.mp4",
+            "imgurl":"/images/Games/Trafficcontrole.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/traffic-control/index.html"},
+        {
+            "name":"Pipe Rush",
+            "videourl":"/images/Games/PIPERUSH.mp4",
+            "imgurl":"/images/Games/PIPERUSH.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/pipe-rush/index.html"},
+        {
+            "name":"Cube Killer",
+            "videourl":"/images/Games/Cubekiller.mp4",
+            "imgurl":"/images/Games/Cubekiller.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/cube-killer/index.html"},
+        {
+            "name":"Snow Rally",
+            "videourl":"/images/Games/Snowrally .mp4",
+            "imgurl":"/images/Games/Snowrally.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/snow-rally/index.html"},
+        {
+            "name":"Hexanaut.io",
+            "videourl":"/images/Games/hexanautio.mp4",
+            "imgurl":"/images/Games/hexanautio.jpg",
+            "url":"https://hexanaut.io/"},
+        {
+            "name":"Tiny Cars",
+            "videourl":"/images/Games/tinycars.mp4",
+            "imgurl":"/images/Games/tinycars.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/tiny-cars/index.html"},
+        {
+            "name":"Twist Maze",
+            "videourl":"/images/Games/twistmaze.mp4",
+            "imgurl":"/images/Games/twistmaze.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/twist-maze/index.html"},
+        {
+            "name":"Gigga.io",
+            "videourl":"/images/Games/giggaio.mp4",
+            "imgurl":"/images/Games/giggaio.jpg",
+            "url":"https://gigga.io"},
+        {
+            "name":"Rotate",
+            "videourl":"/images/Games/rotate.mp4",
+            "imgurl":"/images/Games/rotate.jpg",
+            "url":"https://cdn2.addictinggames.com/cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/rotate/index.html"},
+        {
+            "name":"Flip Cube",
+            "videourl":"/images/Games/flipCube.mp4",
+            "imgurl":"/images/Games/flipCube.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/flip-cube/index.html"},
+        {
+            "name":"Fruit Maniac",
+            "videourl":"/images/Games/fruitManiac.mp4",
+            "imgurl":"/images/Games/fruitManiac.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/fruit-maniac/index.html"},
+        {
+            "name":"Merge Jawels",
+            "videourl":"/images/Games/mergeJewels.mp4",
+            "imgurl":"/images/Games/mergeJewels.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/merge-jewels/index.html"},
+        {
+            "name":"Pushout",
+            "videourl":"/images/Games/pushout.mp4",
+            "imgurl":"/images/Games/pushout.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/pushout/index.html"},
+        {
+            "name":"Balloons",
+            "videourl":"/images/Games/balloons.mp4",
+            "imgurl":"/images/Games/balloons.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/balloons-castello/index.html"},
+        {
+            "name":"Unstack Balls",
+            "videourl":"/images/Games/unstackballs.mp4",
+            "imgurl":"/images/Games/unstackballs.jpg",
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/unstack-balls/index.html"},
+        {
+            "name":"Craftmine",
+            "videourl":"/images/Games/craftmine.mp4",
+            "imgurl":"/images/Games/craftmine.jpg",
+            "url":"https://gamaverse.com/c/f/g/craftmine/?gd_sdk_referrer_url=https://gamaverse.com/craftmine-game/"},
+        {
+            "name":"Hole.io",
+            "videourl":"/images/Games/holeio.mp4",
+            "imgurl":"/images/Games/Holeio.jpg",
+            "url":"https://hole-io.com/index-gd.php?gd_sdk_referrer_url=https://html5.gamedistribution.com/bf10577cd0644646a2a0152fe3b4d586/?gd_sdk_referrer_url=https://gamaverse.com/hole-io-game/"},
+        {
+            "name":"Think to Escape",
+            "videourl":"/images/Games/ThinktoEscape.mp4",
+            "imgurl":"/images/Games/ThinktoEscape.jpg",
+            "url":"https://www.crazygames.com/embed/think-to-escape"},
+        {
+            "name":"Draw Bridges",
+            "videourl":"",
+            "imgurl":"/images/Games/DrawBridges.jpg",
+            "url":"https://www.crazygames.com/embed/draw-bridges"},
+        {
+            "name":"Tomb Of The Mask Neon",
+            "videourl":"/images/Games/tombOfTheMaskNeon.mp4",
+            "imgurl":"/images/Games/tombOfTheMaskNeon.jpg",
+            "url":"https://gamaverse.com/c/f/g/tomb-of-the-mask-neon/?gd_sdk_referrer_url=https://gamaverse.com/tomb-of-the-mask-neon-game/"},
+        {
+            "name":"Time Shooter 2",
+            "videourl":"/images/Games/TimeShooter2.mp4",
+            "imgurl":"/images/Games/TimeShooter2.jpg",
+            "url":"https://gamaverse.com/c/f/g/time-shooter-2/?gd_sdk_referrer_url=https://gamaverse.com/time-shooter-2-game/"},
+        {
+            "name":"Russian Kamaz Truck Driver 2",
+            "videourl":"/images/Games/russianKamazTruckDriver2.mp4",
+            "imgurl":"/images/Games/russianKamazTruckDriver2.jpg",
+            "url":"https://www.crazygames.com/embed/russian-kamaz-truck-driver-2"},
+        {
+            "name":"Wheeler Truck Parking",
+            "videourl":"",
+            "imgurl":"/images/Games/WheelerTruckParking.jpg",
+            "url":"https://html5.gamedistribution.com/rvvASMiM/501659cc749544b98c4530f8ebbd1d63/?gd_sdk_referrer_url=https://gamaverse.com/18-wheeler-truck-parking-game/"},
+        {
+            "name":"Scrap Metal 2",
+            "videourl":"/images/Games/ScrapMetal2.mp4",
+            "imgurl":"/images/Games/ScrapMetal2.jpg",
+            "url":"https://www.pacogames.com/webgl/scrap-metal-2/index.php"},
+        {
+            "name":"Stickman Hook",
+            "videourl":"/images/Games/stickmanHook.mp4",
+            "imgurl":"/images/Games/stickmanHook.jpg",
+            "url":"https://5dd30ab4-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/7b568edf-b682-477d-a179-48160fcadd80/index.html?country=MA&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-v3.14.0&categories=3%2C4%2C9%2C37%2C927%2C929%2C1103%2C1137%2C1140%2C1143%2C1159%2C1160&site_id=3&ab=v2.289.0&experiment=control-bdf1c917&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fstickman-hook&v=1660762770466&game_id=5dd30ab4-015f-11ea-ad56-9cb6d0d995f7&game_version_id=7b568edf-b682-477d-a179-48160fcadd80"},
+        {
+            "name":"Brain Test 2: Tricky Stories",
+            "videourl":"",
+            "imgurl":"/images/Games/brainTest2TrickyStories.jpg",
+            "url":"https://df221093-aae9-4c0d-b458-efb16ae8e3ab.poki-gdn.com/c6f9e294-7aa1-42ab-8507-b7b3c66c9113/index.html?country=MA&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-v3.14.0&categories=4%2C7%2C16%2C37%2C72%2C96%2C400%2C843%2C929%2C1109%2C1140%2C1141%2C1150%2C1166&site_id=3&ab=v2.289.0&experiment=control-bdf1c917&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fbrain-test-2-tricky-stories&v=1660762167773&game_id=df221093-aae9-4c0d-b458-efb16ae8e3ab&game_version_id=c6f9e294-7aa1-42ab-8507-b7b3c66c9113"},
+        {
+            "name":"Appel",
+            "videourl":"/images/Games/Appel.mp4",
+            "imgurl":"/images/Games/Appel.jpg",
+            "url":"https://turbowarp.org/60917032/embed?autoplay&addons=remove-curved-stage-border"},
+        {
+            "name":"Getting Over It",
+            "videourl":"",
+            "imgurl":"/images/Games/GettingOverIt.jpg",
+            "url":"https://turbowarp.org/389464290/embed?autoplay&addons=remove-curved-stage-border,pause,gamepad"},
+        {
+            "name":"HelixJump",
+            "videourl":"/images/Games/HelixJump.mp4",
+            "imgurl":"/images/Games/hexanautio.jpg",
+            "url":"https://html5.gamedistribution.com/rvvASMiM/630d7b91a96145949f86128ce8f1c4eb/?gd_sdk_referrer_url=https%3A%2F%2Fhelixjump2.com%2Fhelix-jump.embed&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2hlbGl4anVtcDIuY29tL2hlbGl4LWp1bXAuZW1iZWQiLCJwYXJlbnREb21haW4iOiJoZWxpeGp1bXAyLmNvbSIsInRvcERvbWFpbiI6ImhlbGl4anVtcDIuY29tIiwiaGFzSW1wcmVzc2lvbiI6dHJ1ZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNCJ9"},
+        {
+            "name":"Evoworld",
+            "videourl":"/images/Games/Evoworld.mp4",
+            "imgurl":"/images/Games/Evoworld.jpg",
+            "url":"https://www.crazygames.fr/embed/flyordieio"},
+        {
+            "name":"Stacky Bird",
+            "videourl":"/images/Games/stackyBird.mp4",
+            "imgurl":"/images/Games/StackyBird.jpg",
+            "url":"https://www.crazygames.fr/embed/stacky-bird"}
+    ]
+}
